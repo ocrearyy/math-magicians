@@ -83,3 +83,11 @@
   margin-left: 20px;
   margin-right: 20px;
 }
+
+a {
+  padding-right: 10px;
+}
+
+span {
+  padding-right: 5px;
+}

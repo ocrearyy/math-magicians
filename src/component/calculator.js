@@ -23,6 +23,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator">
+      <h1>Lets do some math!</h1>
       <div className="input-wrap">
         <div className="output">
           <p className="input-text">{getResult()}</p>
