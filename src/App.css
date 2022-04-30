@@ -91,3 +91,12 @@ a {
 span {
   padding-right: 5px;
 }
+
+.heading {
+  margin-left: 20px;
+  color: red;
+}
+
+.lorem {
+  margin-left: 20px;
+}
