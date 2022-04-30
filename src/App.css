@@ -1,10 +1,13 @@
 
 .calculator {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
+  align-items: baseline;
   text-align: center;
-  min-height: 100vh;
+  flex-direction: row;
+  align-content: stretch;
+  margin-left: 20px;
+  margin-right: 40px;
 }
 
 .input-wrap {
@@ -99,4 +102,21 @@ span {
 
 .lorem {
   margin-left: 20px;
+  margin-right: 20px;
+}
+
+.cheading {
+
+}
+
+.calcu {
+  display: flex;
+}
+
+.quote1 {
+  font-size: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  padding-top: 200px;
 }
